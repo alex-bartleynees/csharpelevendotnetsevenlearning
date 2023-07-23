@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlAj1pXP5Hdl9W5khlfjyYIVeDGhQ4z92MQ72N27qRo+aOCvTz2/w3LvVI16MuxCJ8UikkLbwZ6bB4HjV/xxNA==",
+  "success": true,
+  "projectFilePath": "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexanderbartleynees/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/alexanderbartleynees/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

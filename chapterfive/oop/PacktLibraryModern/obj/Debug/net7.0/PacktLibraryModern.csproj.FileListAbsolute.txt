@@ -1,0 +1,12 @@
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.deps.json
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/bin/Debug/net7.0/PacktLibraryModern.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.csproj.AssemblyReference.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.AssemblyInfoInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.AssemblyInfo.cs
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.csproj.CoreCompileInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/refint/PacktLibraryModern.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/PacktLibraryModern.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryModern/obj/Debug/net7.0/ref/PacktLibraryModern.dll

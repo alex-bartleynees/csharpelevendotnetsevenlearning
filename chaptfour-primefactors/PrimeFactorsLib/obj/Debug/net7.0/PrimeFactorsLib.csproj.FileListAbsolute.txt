@@ -1,0 +1,12 @@
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/bin/Debug/net7.0/PrimeFactorsLib.deps.json
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/bin/Debug/net7.0/PrimeFactorsLib.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/bin/Debug/net7.0/PrimeFactorsLib.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.csproj.AssemblyReference.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.AssemblyInfoInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.AssemblyInfo.cs
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.csproj.CoreCompileInputs.cache
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/refint/PrimeFactorsLib.dll
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/PrimeFactorsLib.pdb
+/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chaptfour-primefactors/PrimeFactorsLib/obj/Debug/net7.0/ref/PrimeFactorsLib.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsLib", "PrimeFactorsLib\PrimeFactorsLib.csproj", "{48D2A91C-3692-4828-94C8-B4E8CD1A722D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsApp", "PrimeFactorsApp\PrimeFactorsApp.csproj", "{266340CA-1AE7-4C23-924A-AFBD654F8611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsTests", "PrimeFactorsTests\PrimeFactorsTests.csproj", "{C56279B1-A9EF-4514-9DDC-7FB441DDE67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D2A91C-3692-4828-94C8-B4E8CD1A722D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D2A91C-3692-4828-94C8-B4E8CD1A722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D2A91C-3692-4828-94C8-B4E8CD1A722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D2A91C-3692-4828-94C8-B4E8CD1A722D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266340CA-1AE7-4C23-924A-AFBD654F8611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266340CA-1AE7-4C23-924A-AFBD654F8611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266340CA-1AE7-4C23-924A-AFBD654F8611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266340CA-1AE7-4C23-924A-AFBD654F8611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56279B1-A9EF-4514-9DDC-7FB441DDE67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56279B1-A9EF-4514-9DDC-7FB441DDE67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56279B1-A9EF-4514-9DDC-7FB441DDE67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56279B1-A9EF-4514-9DDC-7FB441DDE67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

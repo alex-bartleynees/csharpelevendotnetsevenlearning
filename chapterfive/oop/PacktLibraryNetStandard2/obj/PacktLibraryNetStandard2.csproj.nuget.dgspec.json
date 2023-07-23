@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+        "projectName": "PacktLibraryNetStandard2",
+        "projectPath": "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+        "packagesPath": "/Users/alexanderbartleynees/.nuget/packages/",
+        "outputPath": "/Users/alexanderbartleynees/Documents/Documents - Alexander’s MacBook Air/web-development/csharp11dotnetseven/chapterfive/oop/PacktLibraryNetStandard2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderbartleynees/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
